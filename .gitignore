@@ -1,0 +1,9 @@
+# Ignore everything
+/*
+
+# Include only what we want
+!/public/
+!/src/
+!.gitignore
+!package.json
+!README.md
